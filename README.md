@@ -1,5 +1,5 @@
 # SQL-code
 
-Code showing data cleaning using SQL
+SQL files showing data exploration and data cleaning using SQL
 
-Skills used: Joins, CTE's, Windows Functions, PARSENAME, CHARINDEX, Converting Data Types
+Skills used: Joins, CTE's, Temp table, Windows Functions, Aggregate functions, creating views,PARSENAME, CHARINDEX, Converting Data Types
